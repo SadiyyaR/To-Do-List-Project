@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #e8e5ff;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+}
+
+.container {
+    background: white;
+    width: 350px;
+    margin: 80px auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px #aaa;
+}
+
+h1 {
+    color: purple;
+}
+
+input {
+    padding: 10px;
+    width: 60%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px;
+    background: purple;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+li {
+    margin: 15px;
+    cursor: pointer;
+}
